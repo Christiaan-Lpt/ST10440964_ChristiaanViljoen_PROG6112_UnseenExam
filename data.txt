@@ -1,0 +1,9 @@
+DATA LOG
+PRODUCT SALES REPORT
+
+Total Sales: 2200
+Average Sales: 367
+Sales over limit: 2
+Sales under limit: 4
+Years Processed: 2
+
