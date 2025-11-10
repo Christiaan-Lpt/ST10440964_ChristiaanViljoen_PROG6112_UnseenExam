@@ -23,6 +23,7 @@ public class ProductSalesTest {
     public void AverageSales_ReturnsAverageProductSales() {
         double expectedAverage = 366.66;
         double actualAverage = sales.AverageSales(productSales);
-        assertEquals(expectedAverage, actualAverage, 0.5, "Average should be approximately 367");
+        assertEquals(expectedAverage, actualAverage, 0.5, "Average should be "
+                + "approximately 367");
     }
 }
