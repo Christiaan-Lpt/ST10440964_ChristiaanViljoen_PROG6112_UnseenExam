@@ -9,6 +9,7 @@ package PROG6112_UnseenExam_Question1;
 // Main program to produce the product sales report
 public class ProductSalesReport {
     public static void main(String[] args) {
+        
         // 2D array storing product sales data for 2 years and 3 quarters
         int[][] productSales = {
             {300, 150, 700}, // Year 1

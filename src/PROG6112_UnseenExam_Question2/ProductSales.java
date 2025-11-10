@@ -5,6 +5,8 @@ package PROG6112_UnseenExam_Question2;
  * @author ST10440964_ChristiaanViljoen
  */
 
+// ProductSales class implements the IProductSales interface
+
 public class ProductSales implements IProductSales {
 
     private final int[][] productSales = {

@@ -5,7 +5,7 @@ package PROG6112_UnseenExam_Question1;
  * @author ST10440964_ChristiaanViljoen
  */
 
-// Interface defining required sales calculation methods
+// Interface defining required sales and calculation methods
 public interface IProductSales {
     int TotalSales(int[][] productSales);
     double AverageSales(int[][] productSales);

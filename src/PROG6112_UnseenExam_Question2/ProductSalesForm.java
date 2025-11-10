@@ -5,9 +5,9 @@ package PROG6112_UnseenExam_Question2;
  * @author ST10440964_ChristiaanViljoen
  */
 
+// Main program to produce the product sales form
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 import java.io.*;
 
 public class ProductSalesForm extends JFrame {
