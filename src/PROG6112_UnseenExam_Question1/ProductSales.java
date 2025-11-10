@@ -60,4 +60,12 @@ public class ProductSales implements IProductSales {
         }
         return min;
     }
+
+    double calculateTotalSales(int i, double d) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    double calculateTotalSales(int i, double d) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }

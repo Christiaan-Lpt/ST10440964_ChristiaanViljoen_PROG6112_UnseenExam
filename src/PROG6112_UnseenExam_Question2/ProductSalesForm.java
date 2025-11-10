@@ -101,7 +101,8 @@ public class ProductSalesForm extends JFrame {
             writer.println(txtAreaDisplay.getText());
             JOptionPane.showMessageDialog(this, "Data saved to data.txt");
         } catch (IOException ex) {
-            JOptionPane.showMessageDialog(this, "Error saving file: " + ex.getMessage());
+            JOptionPane.showMessageDialog(this, 
+                    "Error saving file: " + ex.getMessage());
         }
     }
 

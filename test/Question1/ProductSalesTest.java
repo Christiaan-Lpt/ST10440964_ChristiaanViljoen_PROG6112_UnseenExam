@@ -1,4 +1,5 @@
-import PROG6112_UnseenExam_Question1.ProductSales;
+package PROG6112_UnseenExam_Question1;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
